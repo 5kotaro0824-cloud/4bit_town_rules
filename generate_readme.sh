@@ -24,7 +24,7 @@ readme_path="$script_dir/README.md"
 {
   printf "# 4bit Town Rulebook\n\n"
   printf "> This README.md is generated from section markdown files (00_*.md – 11_*.md).\n"
-  printf "> Do not edit README.md directly. Edit the section files and rerun `generate_readme.sh`.\n\n"
+  printf "> Do not edit README.md directly. Edit the section files and rerun \`generate_readme.sh\`.\n\n"
 } > "$readme_path"
 
 for file in "${sorted_files[@]}"; do

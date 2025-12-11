@@ -1,7 +1,7 @@
 # 4bit Town Rulebook
 
 > This README.md is generated from section markdown files (00_*.md – 11_*.md).
-> Do not edit README.md directly. Edit the section files and rerun .
+> Do not edit README.md directly. Edit the section files and rerun `generate_readme.sh`.
 
 
 ---
